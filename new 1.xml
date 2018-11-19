@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE Edit_Mensaje SYSTEM "Edit_Mensaje.dtd">
+<Edit_Mensaje>
+	<mensaje>
+		<remitente>
+			<nombre>Caperucita Roja</nombre>
+		</remitente>
+		<Destinatario>
+			<nombre>Lobo ferroz</nombre>
+		</Destinatario>
+	</mensaje>
+</Edit_Mensaje>
